@@ -2,6 +2,6 @@ class Dog
   def name
   end
   
-  def name=
+  def name=()
   end
 end
