@@ -15,4 +15,5 @@ class Dog
   def breed
   end
   def breed=(new_breed)
+  end
 end
