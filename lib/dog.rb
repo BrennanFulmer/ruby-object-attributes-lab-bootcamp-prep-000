@@ -8,6 +8,6 @@ class Dog
   end
   
   def name=(new)
-    
+    @name = new
   end
 end
